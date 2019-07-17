@@ -18,7 +18,7 @@ $data = [
 ];
 
 $smspoh->sendSMS($data);
-
+```
 # get Balance 
 
 ```
